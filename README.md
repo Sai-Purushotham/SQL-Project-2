@@ -556,22 +556,25 @@ CALL return_book(1);  -- Return loan #1
 This project has been fully implemented and tested in MySQL. Below are screenshots showing the working system:
 
 ### Screenshot 1: Database Tables Created
-![Database Tables](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/a27887ec-4bd9-4ec6-901c-7a3c1c376088)
+<img width="1899" height="863" alt="image" src="https://github.com/user-attachments/assets/a76140bd-ed64-455f-b95b-8cd34ee66c35" />
+
 
 *Proof: All 12 tables successfully created in phpMyAdmin*
 
 ### Screenshot 2: Books Table Data
-![Books Table](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/2b28261c-805d-4d8c-b1d5-4623002bd665)
+<img width="1903" height="878" alt="image" src="https://github.com/user-attachments/assets/828a20ab-1eb3-44b5-ae58-f55e9f7a4c64" />
+
 
 *Proof: Sample book data with publishers, years, and copy counts*
 
 ### Screenshot 3: Members Table Data
-![Members Table](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/925362a1-37e3-4ebc-9f31-c627149e903f)
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/7049b4f5-a1f3-42e5-bbdf-aca6cd9d77dd" />
 
 *Proof: Member records showing students and employees*
 
 ### Screenshot 4: MySQL Workbench Query Results
-![Query Results](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/5b37678e-2549-4b3d-8427-07a7e5a14800)
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/419a7c19-419c-449b-beb2-3f5a449889d7" />
+
 
 *Proof: Views and queries executing successfully with results*
 
