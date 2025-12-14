@@ -640,10 +640,9 @@ SELECT * FROM books WHERE book_id = X;
 
 ## Author
 
-**Project By**: Sai Porus (CSE Student)  
+**Project By**: Sai Purushotham  
 **Location**: Nellore, Andhra Pradesh, India  
-**Date**: December 2025  
-**Contact**: sai@example.com  
+**Contact**: purushsai637@gmail.com 
 
 ---
 
