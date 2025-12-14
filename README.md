@@ -1,4 +1,4 @@
-# SQL-Project-2[README.md](https://github.com/user-attachments/files/24146282/README.md)
+
 # 📚 University Library Management System
 
 **A comprehensive database system for managing library operations, book inventories, member records, and loan management.**
