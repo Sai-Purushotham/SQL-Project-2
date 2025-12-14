@@ -37,11 +37,6 @@ The **University Library Management System** is a full-featured database applica
 
 This system is built using **MySQL** with advanced features including triggers, stored procedures, views, and transactions for data integrity.
 
----
-
-## Entity-Relationship Diagram
-
-<img width="1536" height="1024" alt="ERD Rectified" src="https://github.com/user-attachments/assets/da25efb1-e2c9-4ce9-9a88-27b4439e355a" />
 
 ---
 
