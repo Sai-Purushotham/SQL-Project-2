@@ -682,6 +682,5 @@ EXPLAIN SELECT * FROM loans WHERE member_id = 1;
 
 ---
 
-**Query Guide Version:** 1.0  
-**Last Updated:** December 2025  
+**Query Guide Version:** 1.0   
 **Status:** Production Ready ✅
