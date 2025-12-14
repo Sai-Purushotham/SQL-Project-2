@@ -9,7 +9,6 @@
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [ERD](#entity-relationship-diagram)
 - [Technology Stack](#technology-stack)
 - [Database Architecture](#database-architecture)
 - [Setup Instructions](#setup-instructions)
@@ -148,6 +147,11 @@ The database follows a normalized relational model with the following structure:
                                                   │ Audit_logs │
                                                   └────────────┘
 ```
+
+
+<img width="1536" height="1024" alt="ERD Rectified" src="https://github.com/user-attachments/assets/2e03cbba-5f16-464d-b30f-ba7c7eddb612" />
+
+
 
 ---
 
